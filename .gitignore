@@ -15,7 +15,7 @@ build/
 !default.perspectivev3
 xcuserdata
 *.xccheckout
-*.moved-aside
+*.movedaside
 DerivedData
 *.hmap
 *.ipa

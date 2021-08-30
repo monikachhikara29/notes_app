@@ -5,7 +5,13 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "NotesApp"
+    },
+    "android": {
+      "package": "com.monika_chhikara.notes_app"
+    }
   },
   "name": "notes_app"
 }
